@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6116775176052814551}
   - component: {fileID: 7819838743937860128}
   m_Layer: 0
-  m_Name: battery_power_core_charged_0
+  m_Name: Battery_collectible
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
