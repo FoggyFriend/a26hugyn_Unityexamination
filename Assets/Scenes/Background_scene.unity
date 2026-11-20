@@ -253,10 +253,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 222932015}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 25, y: 251}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 22.966187, y: 224.6203}
+  m_SizeDelta: {x: -1095.3032, y: -678.9667}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &451844779
 MonoBehaviour:
@@ -278,18 +278,18 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'You are a robot that works for a factory. Your name is DB and its your
-    job to gather the battires that have been missplaced. '
+  m_text: "You are a robot that works for a factory. \n\nYour name is DB and its
+    your job to gather the battires that have been missplaced. "
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: dcb9aa95fa5d8db4aadd8227db13f1f3, type: 2}
+  m_sharedMaterial: {fileID: 4668463718751437039, guid: dcb9aa95fa5d8db4aadd8227db13f1f3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4279410687
+  m_fontColor: {r: 1, g: 0.6246406, b: 0.07075471, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -306,8 +306,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -345,7 +345,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -286.02612, y: 0, z: -367.74805, w: -90.234375}
+  m_margin: {x: -12.473816, y: 0, z: 7.2072754, w: -6.7401733}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
